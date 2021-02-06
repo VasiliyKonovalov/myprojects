@@ -9,6 +9,7 @@ public class Solution {
     public static void main(String[] args) throws IOException {
         String x = "public static void main(String[] args) {}(dff)";   // строка которую проверяем
         Parentheses(x);
+        //comment
     }
 
     public static boolean Parentheses(String text) {                // метод проверяющий правильность закрытия скобок
