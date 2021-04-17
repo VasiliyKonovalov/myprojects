@@ -28,7 +28,6 @@ public class GetMinMax {
             }
         }
 
-        // напишите тут ваш код
 
         return new Pair<Integer, Integer>(min, max);
     }
